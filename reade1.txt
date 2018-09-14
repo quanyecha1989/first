@@ -1,6 +1,0 @@
-
-system.out.println
-
-Creating a new branch is quick  simple.
-
-devone System.
